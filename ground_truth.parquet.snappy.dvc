@@ -1,0 +1,11 @@
+md5: 40564814926d7c14ca32e33ea0f7f3c1
+frozen: true
+deps:
+- path: booking/v1/ground_truth.parquet.snappy
+  repo:
+    url: https://github.com/sparsh-ai/reco-data
+    rev_lock: f4f2a954223cf6898fae33eda2553a1d55f34de4
+outs:
+- md5: 50c7da9b17973d816d85baf015d178ee
+  size: 928175
+  path: ground_truth.parquet.snappy
