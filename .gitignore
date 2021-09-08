@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/train.parquet.snappy
+/test.parquet.snappy
+/submission.parquet.snappy
+/ground_truth.parquet.snappy

@@ -1,0 +1,11 @@
+md5: d8df111cf9c4c812c4bbddb2ededc826
+frozen: true
+deps:
+- path: booking/v1/submission.parquet.snappy
+  repo:
+    url: https://github.com/sparsh-ai/reco-data
+    rev_lock: f4f2a954223cf6898fae33eda2553a1d55f34de4
+outs:
+- md5: f60182d12fb016816bc88ccb5fe561c3
+  size: 565433
+  path: submission.parquet.snappy
