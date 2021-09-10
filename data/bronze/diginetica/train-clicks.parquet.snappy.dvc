@@ -1,0 +1,11 @@
+md5: f40fe1b7dfb19c085898f08be6af87a3
+frozen: true
+deps:
+- path: diginetica/v1/train-clicks.parquet.snappy
+  repo:
+    url: https://github.com/sparsh-ai/reco-data
+    rev_lock: 42f4496d1ebb559892911b381afb778294906527
+outs:
+- md5: 0193b8551001e1cc8516c9b82bbd0842
+  size: 12382702
+  path: train-clicks.parquet.snappy
